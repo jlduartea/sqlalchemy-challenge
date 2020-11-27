@@ -15,12 +15,12 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 ## Precipitation Analysis
 
-    ![](Images/Precipitation_12m.png)
+    ![](Images/Precipitation_12m.PNG)
     
 
 ## Station Analysis
 
-    ![](Images/BestStatTemp.png)
+    ![](Images/BestStatTemp.PNG)
 
 - - -
 
@@ -28,14 +28,14 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 ### Temperature Analysis I
 
-    ![](Images/Analysis1.png)
+    ![](Images/Analysis1.PNG)
 
 
 ### Temperature Analysis II
 
-    ![](Images/TripAvgTemp.png)
+    ![](Images/TripAvgTemp.PNG)
 
-    ![](Images/NormalsTempTrip.png)
+    ![](Images/NormalsTempTrip.PNG)
 
 
 
