@@ -8,11 +8,12 @@
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do. 
 
 
-![](Images/Hawaii1.png)
 ![](Images/Hawaii2.jpg)
 
 
 ## Codebase for Database connection,  Analysis is [here](Homework-sqlalchemy-JLDA.ipynb)
+
+![](Images/Hawaii3.jpg)
 
 # Analysis
 
