@@ -9,6 +9,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 ![](Images/Hawaii1.png)
+![](Images/Hawaii2.jpg)
 
 
 ## Codebase for Database connection,  Analysis is [here](Homework-sqlalchemy-JLDA.ipynb)
